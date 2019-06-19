@@ -1,0 +1,23 @@
+{
+  "name": "ccc_aureliascript_poc",
+  "version": "1.0.0",
+  "description": "Aurelia Script - CCC - Proof of Concept",
+  "main": "main.js",
+  "dependencies": {
+    "@jnotelddim/ww-custom-element-poc": "github:jnotelddim/ww-custom-element-poc"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JNotelddim/CCC_AureliaScript_POC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JNotelddim/CCC_AureliaScript_POC/issues"
+  },
+  "homepage": "https://github.com/JNotelddim/CCC_AureliaScript_POC#readme"
+}
